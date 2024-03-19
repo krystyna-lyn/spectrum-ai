@@ -81,9 +81,7 @@ const Hero = () => {
         <BackgroundCircles />
       </div>
 
-
-
-
+      <BottomLine />
     </Section >
   );
 };

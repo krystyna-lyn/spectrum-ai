@@ -6,6 +6,7 @@ import curve from "./hero/curve.png";
 import homeSmile from "./home-smile.svg";
 import heroBackground from "./hero/hero-background.jpg";
 import robot from "./hero/robot.jpg";
+import loading from "./loading.png";
 
 
 export {
@@ -16,5 +17,6 @@ export {
     curve,
     homeSmile,
     heroBackground,
-    robot
+    robot,
+    loading
 };
