@@ -37,9 +37,8 @@ import {
   homeSmile,
   file02,
   searchMd,
-  plusSquare,
-  curve
+  plusSquare
 
 } from "../assets";
 
-export const heroIcons = [homeSmile, file02, searchMd, plusSquare, curve];
+export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
