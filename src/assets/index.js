@@ -7,6 +7,7 @@ import homeSmile from "./home-smile.svg";
 import heroBackground from "./hero/hero-background.jpg";
 import robot from "./hero/robot.jpg";
 import loading from "./loading.png";
+import yourlogo from "./yourlogo.svg";
 
 
 export {
@@ -18,5 +19,6 @@ export {
     homeSmile,
     heroBackground,
     robot,
-    loading
+    loading,
+    yourlogo
 };

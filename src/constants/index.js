@@ -37,8 +37,13 @@ import {
   homeSmile,
   file02,
   searchMd,
-  plusSquare
+  plusSquare,
+  yourlogo
+
 
 } from "../assets";
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
+
+
+export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
