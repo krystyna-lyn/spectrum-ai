@@ -110,3 +110,6 @@ export const benefits = [
     imageUrl: benefitImage2,
   },
 ];
+
+export const collabText =
+  "Collaborate with your team to create a customized and interactive platform that suits the needs of your business.";
