@@ -20,6 +20,18 @@ import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
+import check from "./check.svg";
+
+import curve1 from "./collaboration/curve-1.svg";
+import curve2 from "./collaboration/curve-2.svg";
+import discord from "./collaboration/discord.png";
+import figma from "./collaboration/figma.png";
+import framer from "./collaboration/framer.png";
+import notion from "./collaboration/notion.png";
+import photoshop from "./collaboration/photoshop.png";
+import protopie from "./collaboration/protopie.png";
+import raindrop from "./collaboration/raindrop.png";
+import slack from "./collaboration/slack.png";
 
 
 export {
@@ -43,5 +55,17 @@ export {
     benefitIcon2,
     benefitIcon3,
     benefitIcon4,
-    benefitImage2
+    benefitImage2,
+    check,
+    curve1,
+    curve2,
+    discord,
+    figma,
+    framer,
+    notion,
+    photoshop,
+    protopie,
+    raindrop,
+    slack
+
 };
