@@ -1,4 +1,4 @@
-import { check } from "../assets"
+import { check, spectrum } from "../assets"
 import { collabApps, collabText } from "../constants";
 import { collabContent } from "../constants";
 import Button from "./Button";
@@ -42,7 +42,7 @@ const Collaboration = () => {
                             <div className="w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full">
                                 <div className="flex items-center justify-center w-full h-full bg-n-8 rounded-full">
                                     <img
-                                        src="#"
+                                        src={spectrum}
                                         width={48}
                                         height={48}
                                         alt="spectrum"
@@ -60,8 +60,9 @@ const Collaboration = () => {
                                         rotate-${index * 45}
                                             `}
                                     >
-                                        <div className={`relative -top-[1.6rem] flex w-[3.2rem] h-[3.2rem] border bg-n-7 rounded-xl
-                                        -rotate-${index * 45}`}>
+                                        <div className={`relative -top-[1.6rem] flex w-[3.2rem] h-[3.2rem] bg-n-7 border border-n-1/15 rounded-xl -rotate-${index * 45
+                                            }`}>
+
                                             <img
                                                 className="m-auto"
                                                 width={app.width}
@@ -69,11 +70,9 @@ const Collaboration = () => {
                                                 src={app.icon}
                                                 alt={app.alt}
                                             />
-
                                         </div>
                                     </li>
-                                ))
-                            }
+                                ))}
 
                         </ul>
 

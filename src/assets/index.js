@@ -1,3 +1,4 @@
+import spectrum from "./spectrum.png";
 import plusSquare from "./plus-square.svg";
 import file02 from "./file-02.svg";
 import searchMd from "./search-md.svg";
@@ -35,6 +36,7 @@ import slack from "./collaboration/slack.png";
 
 
 export {
+    spectrum,
     plusSquare,
     file02,
     searchMd,
