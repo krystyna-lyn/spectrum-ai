@@ -196,3 +196,9 @@ export const collabApps = [
     height: 32,
   },
 ];
+
+export const services = [
+  "Photo generating",
+  "Photo enhance",
+  "Seamless Integration",
+];
