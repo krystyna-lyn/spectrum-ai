@@ -38,6 +38,11 @@ import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
 import service3 from "./services/service-3.png";
 
+import recording01 from "./recording-01.svg";
+import recording03 from "./recording-03.svg";
+import disc02 from "./disc-02.svg";
+import chromecast from "./chrome-cast.svg";
+import sliders04 from "./sliders-04.svg";
 
 
 export {
@@ -76,6 +81,11 @@ export {
     slack,
     service1,
     service2,
-    service3
+    service3,
+    recording03,
+    recording01,
+    disc02,
+    chromecast,
+    sliders04,
 
 };

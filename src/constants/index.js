@@ -11,7 +11,12 @@ import {
   photoshop,
   protopie,
   framer,
-  raindrop
+  raindrop,
+  recording03,
+  recording01,
+  disc02,
+  chromecast,
+  sliders04,
 
 } from "../assets";
 
@@ -201,4 +206,12 @@ export const services = [
   "Photo generating",
   "Photo enhance",
   "Seamless Integration",
+];
+
+export const servicesIcons = [
+  recording03,
+  recording01,
+  disc02,
+  chromecast,
+  sliders04,
 ];
