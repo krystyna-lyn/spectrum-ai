@@ -58,6 +58,12 @@ import roadmap2 from "./roadmap/image-2.png";
 import roadmap3 from "./roadmap/image-3.png";
 import roadmap4 from "./roadmap/image-4.png";
 
+import discordBlack from "./socials/discord.svg";
+import twitter from "./socials/twitter.svg";
+import instagram from "./socials/instagram.svg";
+import telegram from "./socials/telegram.svg";
+import facebook from "./socials/facebook.svg";
+
 export {
     spectrum,
     plusSquare,
@@ -110,6 +116,11 @@ export {
     roadmap1,
     roadmap2,
     roadmap3,
-    roadmap4
+    roadmap4,
+    discordBlack,
+    telegram,
+    facebook,
+    instagram,
+    twitter
 
 };

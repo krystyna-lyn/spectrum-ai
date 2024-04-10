@@ -6,6 +6,7 @@ import Collaboration from "./components/Collaboration.jsx";
 import Services from "./components/Services.jsx";
 import Pricing from "./components/Pricing.jsx";
 import Roadmap from "./components/Roadmap.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
         <Services />
         <Pricing />
         <Roadmap />
+        <Footer />
       </div>
     </>
   );
