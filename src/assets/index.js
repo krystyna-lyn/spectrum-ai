@@ -47,6 +47,9 @@ import sliders04 from "./sliders-04.svg";
 import play from "./play.svg";
 import gradient from "./gradient.png";
 
+import stars from "./pricing/stars.svg";
+import lines from "./pricing/lines.svg";
+
 
 export {
     spectrum,
@@ -91,6 +94,8 @@ export {
     chromecast,
     sliders04,
     play,
-    gradient
+    gradient,
+    stars,
+    lines
 
 };
