@@ -49,7 +49,14 @@ import gradient from "./gradient.png";
 
 import stars from "./pricing/stars.svg";
 import lines from "./pricing/lines.svg";
+import check2 from "./check-02.svg";
+import grid from "./grid.png";
+import loading1 from "./loading.png";
 
+import roadmap1 from "./roadmap/image-1.png";
+import roadmap2 from "./roadmap/image-2.png";
+import roadmap3 from "./roadmap/image-3.png";
+import roadmap4 from "./roadmap/image-4.png";
 
 export {
     spectrum,
@@ -96,6 +103,13 @@ export {
     play,
     gradient,
     stars,
-    lines
+    lines,
+    check2,
+    grid,
+    loading1,
+    roadmap1,
+    roadmap2,
+    roadmap3,
+    roadmap4
 
 };
