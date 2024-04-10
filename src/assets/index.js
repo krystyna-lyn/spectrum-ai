@@ -44,6 +44,9 @@ import disc02 from "./disc-02.svg";
 import chromecast from "./chrome-cast.svg";
 import sliders04 from "./sliders-04.svg";
 
+import play from "./play.svg";
+import gradient from "./gradient.png";
+
 
 export {
     spectrum,
@@ -87,5 +90,7 @@ export {
     disc02,
     chromecast,
     sliders04,
+    play,
+    gradient
 
 };
